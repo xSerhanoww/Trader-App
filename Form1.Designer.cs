@@ -189,7 +189,6 @@
             welcome_lbl.TabIndex = 0;
             welcome_lbl.Text = "Welcome, Username !";
             welcome_lbl.Visible = false;
-            welcome_lbl.Click += login_btn_Click;
             // 
             // exit
             // 

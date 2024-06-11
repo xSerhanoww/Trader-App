@@ -196,7 +196,7 @@
             // 
             price_lbl.AutoSize = true;
             price_lbl.Font = new Font("Century Gothic", 15F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            price_lbl.Location = new Point(365, 296);
+            price_lbl.Location = new Point(360, 296);
             price_lbl.Name = "price_lbl";
             price_lbl.Size = new Size(76, 23);
             price_lbl.TabIndex = 5;
@@ -207,7 +207,7 @@
             // 
             label6.AutoSize = true;
             label6.Font = new Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            label6.Location = new Point(378, 275);
+            label6.Location = new Point(363, 275);
             label6.Name = "label6";
             label6.Size = new Size(55, 21);
             label6.TabIndex = 5;

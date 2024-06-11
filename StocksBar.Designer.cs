@@ -133,7 +133,7 @@
             // 
             units_lbl.AutoSize = true;
             units_lbl.Font = new Font("Century Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            units_lbl.Location = new Point(441, 26);
+            units_lbl.Location = new Point(436, 26);
             units_lbl.Name = "units_lbl";
             units_lbl.Size = new Size(72, 19);
             units_lbl.TabIndex = 1;

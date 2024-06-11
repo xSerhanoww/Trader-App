@@ -87,21 +87,6 @@ namespace TraderBeta_02
             }
         }
 
-        private void radioButton2_CheckedChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void radioButton3_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void radioButton4_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void showAll_btn_CheckedChanged(object sender, EventArgs e)
         {
             panel3.Controls.Clear();
